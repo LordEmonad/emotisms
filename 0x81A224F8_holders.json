@@ -1,0 +1,406 @@
+{
+  "timestamp": "2025-12-22T13:31:44.074859",
+  "total_holders": 50,
+  "holders": [
+    {
+      "rank": 1,
+      "address": "0x714A2694C8d4f0B1bfbA0E5b76240E439df2182D",
+      "amount": "54178554.7429003",
+      "percentage": "5.417855",
+      "usd_value": "",
+      "is_contract": true
+    },
+    {
+      "rank": 2,
+      "address": "0xb0bAaCE23aC7cbd25211134a0B47ad70a9D42FA4",
+      "amount": "35275569.6368414",
+      "percentage": "3.527557",
+      "usd_value": "",
+      "is_contract": true
+    },
+    {
+      "rank": 3,
+      "address": "0x8c8F4AAC2674CA967974f319Bebe49342623B787",
+      "amount": "27712836.046595555",
+      "percentage": "2.771284",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 4,
+      "address": "0x8D34e0165DFB2d70a5B5890e100581e0884F2EAb",
+      "amount": "27113543.719726376",
+      "percentage": "2.711354",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 5,
+      "address": "0x2ee42248515E55119aA0CC695b575451A77Ce0F8",
+      "amount": "26984885.00743813",
+      "percentage": "2.698489",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 6,
+      "address": "0xD7AA3437924142Ea70070fD89267685D9e6CE3e2",
+      "amount": "22762790.032797597",
+      "percentage": "2.276279",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 7,
+      "address": "0x182F1bF9943562A6c1fbdd3075AeBA62C2e1869c",
+      "amount": "18053851.247835744",
+      "percentage": "1.805385",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 8,
+      "address": "0x0e117C5306b4948908CC40429864d9141ca19908",
+      "amount": "16732789.629722781",
+      "percentage": "1.673279",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 9,
+      "address": "0x795d8a3902bE46B3e6288dDDe6ba8f64ca230102",
+      "amount": "13935800.031829448",
+      "percentage": "1.393580",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 10,
+      "address": "0x775BD91d622D607CEd15Ba13784202BC3A4C26bd",
+      "amount": "13911787.834942503",
+      "percentage": "1.391179",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 11,
+      "address": "0x125eac7B58Bf2C6DbC1Ee71575F84438ba7244e5",
+      "amount": "13593619.03382013",
+      "percentage": "1.359362",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 12,
+      "address": "0x0052D2e4AF4548e6Cf19e817B944CEdb23aE09dF",
+      "amount": "13007874.387459781",
+      "percentage": "1.300787",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 13,
+      "address": "0x88aE5B0d008953Ac5D82Af421a124EfeA24eF5dA",
+      "amount": "12282023.489636268",
+      "percentage": "1.228202",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 14,
+      "address": "0xb30C07Bb1A87F177Bdc226216D39f4067639D117",
+      "amount": "12215924.08942652",
+      "percentage": "1.221592",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 15,
+      "address": "0xc13767489801D73103115a5Fa4a66babcB53D1cB",
+      "amount": "12211653.145648608",
+      "percentage": "1.221165",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 16,
+      "address": "0xf080adCa1E1468ff1f289b9620B182C010702a78",
+      "amount": "12000000",
+      "percentage": "1.200000",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 17,
+      "address": "0xd985F6d1F4E6a3a3BF08Fb54aFb529d00Fb0f20e",
+      "amount": "12000000",
+      "percentage": "1.200000",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 18,
+      "address": "0x52d2b1164b6794B2Ca1582f0Ba67a7efA203FA5a",
+      "amount": "11466521.216769794",
+      "percentage": "1.146652",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 19,
+      "address": "0xD1b5f567e2741DF025d5911B27B13C2E87E563Fe",
+      "amount": "11310945.211799264",
+      "percentage": "1.131095",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 20,
+      "address": "0x492177cde73dA3b4b337074e8f263Ea34653a7Ec",
+      "amount": "11134119.615630621",
+      "percentage": "1.113412",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 21,
+      "address": "0xb05B36B986853DB8dDD0e04cd68Dd6B93dA26383",
+      "amount": "10844867.821767267",
+      "percentage": "1.084487",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 22,
+      "address": "0x147d79F1c9244b85CbA959262fb71Ad38069feBB",
+      "amount": "10839049.700936496",
+      "percentage": "1.083905",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 23,
+      "address": "0xCB75Abd04F5413b8789F23B171D081AF75B488D7",
+      "amount": "10820574.940815233",
+      "percentage": "1.082057",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 24,
+      "address": "0x7Ec1960cd95652675CB6dD59Ba52f6B7c8b2dfDd",
+      "amount": "10648811.213718241",
+      "percentage": "1.064881",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 25,
+      "address": "0xc9Beb278E3fc59fa68407487aBb257C151d751BB",
+      "amount": "10590579.603758745",
+      "percentage": "1.059058",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 26,
+      "address": "0x9c861314cbB353723a11E9e624C5984667896858",
+      "amount": "10251450.298662016",
+      "percentage": "1.025145",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 27,
+      "address": "0xB48EcFF747a350662D7fF68C301fd3Bc713dfA51",
+      "amount": "10158204.943816293",
+      "percentage": "1.015820",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 28,
+      "address": "0x225451e780Ccce204aCFf65d364b1Aec64CeE0C6",
+      "amount": "10031803.907951176",
+      "percentage": "1.003180",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 29,
+      "address": "0x479EB982e6D5fbbF77F207184BAfDEe9aa8F01cb",
+      "amount": "10024802.677289648",
+      "percentage": "1.002480",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 30,
+      "address": "0xf271294CF8864EA9FAcf52E47E01efA7e64ea4F1",
+      "amount": "10000163.189977003",
+      "percentage": "1.000016",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 31,
+      "address": "0xEe3a5df329E35F6d1c24B458F386e812fD42995F",
+      "amount": "10000000",
+      "percentage": "1.000000",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 32,
+      "address": "0x15bc9f0785d0384f67e0Ce3aF25C1491c920CE90",
+      "amount": "9830392.925505206",
+      "percentage": "0.983039",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 33,
+      "address": "0x856da0aCbfF24Fd61A470023E8A5dAE8FC45bde8",
+      "amount": "9488732.380438875",
+      "percentage": "0.948873",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 34,
+      "address": "0x9be30296aF6B87028688bA6279e181E2512CD1A9",
+      "amount": "9297936.74374914",
+      "percentage": "0.929794",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 35,
+      "address": "0xE48864f7a66AEf54A2374B741e4AE6Bf20Ec715b",
+      "amount": "9253989.961432735",
+      "percentage": "0.925399",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 36,
+      "address": "0x2A68ba1833cDf93fa9Da1EEbd7F46242aD8E90c5",
+      "amount": "8953857.559585975",
+      "percentage": "0.895386",
+      "usd_value": "",
+      "is_contract": true
+    },
+    {
+      "rank": 37,
+      "address": "0xf8cC081D772c8FA0DFc2d5544B11777B84E4E2Ad",
+      "amount": "8850764.8278608",
+      "percentage": "0.885076",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 38,
+      "address": "0xf8bAF2541defAB76f2c344Ff10cD6d4eF74D3432",
+      "amount": "8614787.880535472",
+      "percentage": "0.861479",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 39,
+      "address": "0x9cCAE0a840577e304788Ab54c5050b80A1e35398",
+      "amount": "8302654.404109346",
+      "percentage": "0.830265",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 40,
+      "address": "0x1FA165217503C787f7F6FC34dE47D6be834E360E",
+      "amount": "8007255.013469472",
+      "percentage": "0.800726",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 41,
+      "address": "0xad481d3c709dffdC30FFd7b7C6A307E4CE60b09A",
+      "amount": "8004631.446188008",
+      "percentage": "0.800463",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 42,
+      "address": "0x83eB8fAF714eF9E3d503A545451cB1A83a78428B",
+      "amount": "7736485.036677497",
+      "percentage": "0.773649",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 43,
+      "address": "0x8D0F88CC0f08e6d21B0cf7c3aCc90e8d280fCCCE",
+      "amount": "7493386.730489932",
+      "percentage": "0.749339",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 44,
+      "address": "0xdEeb2bb407170079d8b81640733052fB77926c86",
+      "amount": "7412370.669597652",
+      "percentage": "0.741237",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 45,
+      "address": "0xb62D4D6609679c94b39b5C319b041d385ED70bd3",
+      "amount": "7152120.692803197",
+      "percentage": "0.715212",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 46,
+      "address": "0x1180EAeF1D6C06b396F676aEB569a66f5C5deE57",
+      "amount": "6724947.635779329",
+      "percentage": "0.672495",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 47,
+      "address": "0xCD685dB65cfBCef7Ab93BD1836de741d964df5F6",
+      "amount": "6429149.815294707",
+      "percentage": "0.642915",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 48,
+      "address": "0xF57a49b941F7725D858b657b9f82052C4D3FcB4d",
+      "amount": "6101662.23836084",
+      "percentage": "0.610166",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 49,
+      "address": "0x2bE0f6533eF26DC23246285516D88D1Ea632Facc",
+      "amount": "5946750.608791297",
+      "percentage": "0.594675",
+      "usd_value": "",
+      "is_contract": false
+    },
+    {
+      "rank": 50,
+      "address": "0xcA8bf25D4b636C177fcDe59C38fAe68318c0cCB5",
+      "amount": "5887731.364307044",
+      "percentage": "0.588773",
+      "usd_value": "",
+      "is_contract": false
+    }
+  ]
+}
