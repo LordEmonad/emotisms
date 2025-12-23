@@ -1,9 +1,13 @@
 import asyncio
+import os
 from telegram import Bot
 from PIL import Image
 import io
 
-BOT_TOKEN = "8575779552:AAF_UMZ7R6a1hX7S774g6t6FbD9DEXkgCrk"
+# Load token from environment variable - NEVER hardcode tokens!
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+if not BOT_TOKEN:
+    raise ValueError("Set TELEGRAM_BOT_TOKEN environment variable")
 USER_ID = 950075474
 PACK_NAME = "emo_stickers_by_EmonadBot"
 THUMB_IMAGE = r"c:\Users\kinga\OneDrive\Documents\Ordtisms\token image.png"
